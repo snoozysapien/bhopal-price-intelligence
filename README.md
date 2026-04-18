@@ -198,10 +198,9 @@ Install: `pip install -r requirements.txt`
 
 ## Author
 
-Built by [Your Name] as a portfolio project demonstrating end-to-end data analysis:
+Built by Mohit hurmade as a portfolio project demonstrating end-to-end data analysis:
 scraping → cleaning → analysis → actionable insights.
 
-*Hyperlocal India data projects are rare. Most portfolios use US housing data from Kaggle.*
 
 ---
 
